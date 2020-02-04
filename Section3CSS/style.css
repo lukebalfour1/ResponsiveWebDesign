@@ -1,0 +1,72 @@
+h1 {
+    color: red;
+    background-color: blue;
+}
+
+#mainPar {
+    color: yellow;
+}
+
+.veg {
+    color: green;
+}
+
+.meat {
+    color: brown ;
+}
+
+#boxM {
+    background-color: yellow;
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+}
+
+#boxBM {
+    background-color: yellow;
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+#boxBM2 {
+    background-color: blue;
+    margin-left: 10px;
+    padding: 0px 10px 30px 40px;
+}
+
+#boxCA {
+    background-color: yellow;
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px auto 10px auto;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+}
+
+#boxCA2 {
+    background-color: blue;
+    margin-left: 10px;
+    padding: 0px 10px 30px 40px;
+}
+
+body {
+    font-size: 20px;
+}
+
+#typoP {
+    font-size: 2rem;
+    font-family: Arial, Courier;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.keypoint {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
